@@ -1,2 +1,2 @@
-# Loan-App-
-Predict person are capable to take loan or not
+# ABC_Fin_App
+Web based loan application approval system
